@@ -245,7 +245,7 @@ understanding of what those keys are used for.
 
 ## Dotfiles
 
-There are three options, chose _one_:
+There are three options, chose accordingly, but do not skip Step 3:
 
 ### 1. I already attended Web Development (FullStack) bootcamp at Le Wagon _on the same laptop_
 

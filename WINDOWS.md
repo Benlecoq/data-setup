@@ -257,6 +257,8 @@ If you want to check which packages (and which version of that package) you have
 
 Let's go back to Sublime Text and install some packages that will help us to create better code.
 
+Launch Sublime Text. 
+
 Press the windows key + R at the same time to open the "Run" tool. Type the command:
 
 ```bash
